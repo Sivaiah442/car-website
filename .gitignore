@@ -1,0 +1,12 @@
+# Raw source video clips and intermediate frames
+clip1frame/
+clip2frame/
+clip3frame/
+flowclipframe/
+*.mp4
+*.zip
+
+# Node & OS
+node_modules/
+.DS_Store
+Thumbs.db
